@@ -2,15 +2,7 @@
 
 A stateful widget
 
-## Getting Started
+## Screenshorts
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Rokeya0/module07assignment/assets/135530632/37338b09-b72a-4413-ac22-ecbb4d1bd90b)
+![image](https://github.com/Rokeya0/module07assignment/assets/135530632/ce8562c9-5ddf-493f-af22-7e5e78c02a3c)
